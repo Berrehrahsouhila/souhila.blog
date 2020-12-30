@@ -1,11 +1,15 @@
 ---
 title: "About Me"
-author:
-  - name: "___" 
-date: "`r Sys.Date()`"
+author: 
+  - name: "Souhila Berrehrah" 
+date: "30.12,2020"
 output: distill::distill_article
 ---
 
 This section must bu include a short presentation of you.
 
 - first name/surname, teacher’s name, class name and academic year
+
+My name is Souhila Berrehrah, i'm 26 years old and i'm Algerian.I'm a second year Bachelor student in Biology at the University of Mons,it's a great opportunity for me to study in one of the best university in Europe.
+
+My english teacher is Ms.Ingrid Van Lancker and this blog it's a collaboration between english subject and data science subject,in this blog i will post different articles about alzheimer's disease
