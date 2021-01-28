@@ -2,7 +2,7 @@
 title: "About Me"
 author: 
   - name: "Souhila Berrehrah" 
-date: "30.12,2020"
+date: "Dec.30,2020"
 output: distill::distill_article
 ---
 
