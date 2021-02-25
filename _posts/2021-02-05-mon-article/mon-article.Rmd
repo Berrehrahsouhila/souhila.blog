@@ -1,0 +1,61 @@
+---
+title: Article 3 "Diabetes increases neurotic damage around amyloid plaques in Alzheimer's disease"
+description: |
+  Diabetes type 2 destroys microglial cells and  accelerate the evolution of Alzheimer's disease.
+author:
+  - name: Souhila Berrehrah 
+    url:
+       https://github.com/Berrehrahsouhila: {}
+date: 02-05-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+ 
+**I-SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT :**
+
+**Source of the article :**
+<https://www.sciencedaily.com/releases/2020/11/201118092947.htm> (November 18, 2020).
+
+**Source of the study :**  (Teemu Natunen et al., 2020)
+
+**Word count :** 519
+
+**II- VOCABULARY :** 
+
+
+| Word from the text             | Synonym/ Definition in English                                                                                                                                                                                                                                                           | French translation                                                                                                           |
+| ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Dementia                       | Severely impaired memory and reasoning ability, associated with damaged brain tissue                                                                                                                                                                                                     | Démence (un ensemble de problème manque de sociabilité perte de mémoire…)                                                    |
+| The immune cells               | Cells wich protects the body from pathogens and other foreign substances, destroys infected and malignant cells, and removes cellular debris                                                                                                                                             | Cellules immunitaires                                                                                                        |
+| Microglia                      | Non-neural cells forming part of the adventitial structure of the central nervous system. They are migratory and act as phagocytes of waste products of the nervous system                                                                                                               | Cellule microgliale                                                                                                          |
+| Astrocyte                      | A neuroglial cell of ectodermal origin, characterized by fibrous or protoplasmic processes                                                                                                                                                                                               | Les astrocytes                                                                                                               |
+| Damage                         | Injury, or destruction                                                                                                                                                                                                                                                                   | Dégats                                                                                                                       |
+| Axon                           | The part of a nerve cell that sends impulses away from the cell body                                                                                                                                                                                                                     | Axone                                                                                                                        |
+| Dendrite                       | A branching part of a nerve cell that carries impulses toward the cell body                                                                                                                                                                                                              | Dendrite                                                                                                                     |
+| Type 2 diabetes                | A condition characterized by high blood glucose levels caused by either a lack of insulin or the body's inability to use insulin efficiently.                                                                                                                                            | Diabete type 2                                                                                                               |
+| Transgenic                     | Of, pertaining to, or containing a gene or genes transferred from another species                                                                                                                                                                                                        | Transgénique                                                                                                                 |
+| The typical Western diet       | A diet with inadequate fruits, vegetables, whole grains, legumes, fish, and low-fat dairy products and excessive amounts of refined and processed foods, alcohol, salt, red meats, sugary beverages, snacks, eggs, and butter.                                                           | le régime alimentaire occidental (composé de viande rouge, de gras saturés, de sucres…. Mais moins de fruits et de légumes)  |
+| Neuritic plaques               | An extracellular mass of β‐amyloid filaments that is associated with dystrophic axons and dendrites, microglia, and astrocytes. In Alzheimer's disease such plaques occur in areas of the brain that serve cognition and memory                                                          | Plaques séniles                                                                                                              |
+| Analysed                       | To examine or study something so as to separate it into the pieces that make it up, and to figure out its essential features                                                                                                                                                             | Analyser                                                                                                                     |
+| Biopsies                       | The removal of a piece of tissue from a living body in order to find out if it is diseased                                                                                                                                                                                               | Biopsies                                                                                                                     |
+| Normal pressure hydrocephalus  | A type of hydrocephalus developing usually in older people, due to failure of cerebrospinal fluid to be absorbed by the pacchionian granulations, and characterized clinically by progressive dementia, unsteady gait, urinary incontinence, and usually, a normal spinal fluid pressure | Hydrocéphalie à pression normale                                                                                             |
+|                                |                                                                                                                                                                                                                                                                                          |                                                                                                                              |
+
+
+**III- ANALYSIS TABLE ABOUT THE STUDY :**
+  
+| Reaserchers                                        | University of Eastern Finland, lead author : Teemu Natunen                                                                                                                                                                                        |
+| -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Published in ?  When (if mentioned)                | ScienceDaily, 18 November 2020.                                                                                                                                                                                                                   |
+| General topic                                      | Diabetes type 2 increase the risk of the onset of Alzheimer disease and accelerate its evolution                                                                                                                                                  |
+| Procedure /  What was examined                     |  The researchers made a western diet (6 months) on mouse, and  analyze mouse’s ARN'm   Immunohistochemical analyses of entorhinal and hippocampal cells of mouce, and they  analyze cortical biopsies human to compare the results human and mouce |
+| Conclusion /  Discovery                            | Diabetes type 2 destroys the immune cells (microglia) and accelerate the evolution of Alzheimer disease                                                                                                                                            |
+| Rmaining questions                                 |  /                                                                                                                                                                                                                                                |
+|                                                    |                                                                                                                                                                                                                                                   |
