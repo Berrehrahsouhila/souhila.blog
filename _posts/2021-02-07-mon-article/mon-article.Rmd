@@ -1,0 +1,72 @@
+---
+title: Article 4 "New method shows great potential for the treatment of Alzheimer's disease"
+description: |
+  the discovery of a new method to reduce the progression of Alzheimer's disease.
+author:
+  - name: Souhila Berrehrah
+    url:
+       https://github.com/Berrehrahsouhila: {}
+date: 02-07-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+**I-SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT :**
+
+**Source of the article :**
+<https://www.sciencedaily.com/releases/2020/11/201103104719.htm> (November 3, 2020)
+
+**Source of the study :** (Fadi Rofo et al., 2020)
+
+**Word count :** 522
+
+**II- VOCABULARY :**
+
+
+| Word from the text  | Synonym/ Definition in English                                                                                                                                                                                                           | French translation                                                                                                                                     |
+| ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Begins (to begin)   | To start                                                                                                                                                                                                                                 | Commencer                                                                                                                                              |
+| Clumps              | A small group or cluster                                                                                                                                                                                                                 | Groupe                                                                                                                                                 |
+| Aggregation         | A group or mass of distinct or varied things, persons, etc                                                                                                                                                                               | Masse                                                                                                                                                  |
+| Currently           | At the present time                                                                                                                                                                                                                      | Actuellement                                                                                                                                           |
+| Attempts            | An effort made to accomplish something                                                                                                                                                                                                   | Tentative                                                                                                                                              |
+| Toxic               | Having the effect of a poison                                                                                                                                                                                                            | Toxique                                                                                                                                                |
+| Treatment           | The use of medicines, surgery, etc., in curing a person of a disorder                                                                                                                                                                    | Traitement                                                                                                                                             |
+| Reduces             | Decrease                                                                                                                                                                                                                                 | Réduire                                                                                                                                                |
+| Somatostatin        | A polypeptide hormone produced chiefly by the hypothalamus that inhibits the secretion of various other hormones, such as somatotropin, glucagon, insulin…..                                                                             | Tétradécapeptide   produit par le pancréas qui inhibe les sécrétions hormonales digestives et   participe à la modulation de la prise alimentaire      |
+| A drug              | A substance used in the diagnosis, treatment, or prevention of a disease or as a component of a medication                                                                                                                               | Médicament                                                                                                                                             |
+| Blood               | The fluid that circulates in the principal vascular system of human beings and other vertebrates, in humans consisting of plasma in which the red blood cells, white blood cells, and platelets are suspended.                           | Sang                                                                                                                                                   |
+| Blood-brain barrier | A physiological mechanism that alters the   permeability of brain capillaries, so that some substances, such as certain   drugs, are prevented from entering brain tissue, while other substances are   allowed to enter freely          | Barrière hémato-encéphalique est une barrière physiologique séparant la circulation sanguine du système nerveux central.                               |
+| Fused               |  To combine or blend by melting together                                                                                                                                                                                                 | Fusionner                                                                                                                                              |
+| Transport protein   | Transport protein is a protein that serves the function of moving other materials within an organism. Transport proteins are vital to the growth and life of all living things. There are several different kinds of transport proteins. | Protéine de transport (une protéine qui assure le passage d'ions ou de molécules d'une face à l'autre de la membrane).                                 |
+| To allow            | To permit something to happen or to exist                                                                                                                                                                                                | Permitter                                                                                                                                              |
+| Enter               | To come or to go into                                                                                                                                                                                                                    | Entrer dans                                                                                                                                            |
+| Proved              | demonstrate conclusively                                                                                                                                                                                                                 | Prouver, démontrer                                                                                                                                     |
+| Effective           | Able to accomplish a purpose                                                                                                                                                                                                             | Efficace                                                                                                                                               |
+| Remained            | Continue to be                                                                                                                                                                                                                           | Rester                                                                                                                                                 |
+| Effect              | Consequence                                                                                                                                                                                                                              | Conséquence,effet                                                                                                                                      |
+| Hippocampus         | An enfolding of cerebral cortex into the lateral fissure of a cerebral hemisphere, having the shape in cross section of a sea horse                                                                                                      | L'hippocampe est une structure du cortex du cerveau importante pour le passage des informations de la mémoire à court terme à la mémoire à long terme. |
+| Able                | Can, capable                                                                                                                                                                                                                             | pouvoir                                                                                                                                                |
+| Targeted            | Strategy: aiming at a specific group                                                                                                                                                                                                     | Ciblé                                                                                                                                                  |
+| Few                 | Not many                                                                                                                                                                                                                                 | Peu de                                                                                                                                                 |
+| Conducted           | Perform an investigation                                                                                                                                                                                                                 | Mener une étude                                                                                                                                        |
+|                     |                                                                                                                                                                                                                                          |                                                                                                                                                        |
+
+
+**III- ANALYSIS TABLE ABOUT THE STUDY :**
+
+
+| Reaserchers                                        |  University of Uppsala,  Lead author : Fadi Rofo                                 |
+| -------------------------------------------------- | -------------------------------------------------------------------------------- |
+| Published in ?  When (if mentioned)                | Science Daily,  3 novembre 2020                                                  |
+| General topic                                      | The new method to decrease the formation of beta-amyloid plaques in   the brain  |
+| Procedure /  What was examined                     |  Utilisation of the complex: somatostatin protein and transport protein in mice  |
+| Conclusion /  Discovery                            | This new study can help people against Alzheimer ‘s disease                      |
+| Rmaining questions                                 |  /                                                                               |
+|                                                    |                                                                                  |
+
