@@ -1,0 +1,36 @@
+---
+title: "graphic_description"
+description: |
+  Urchins biometry.
+author:
+  - name: Souhila Berrehrah
+    url:
+      https://github.com/Berrehrahsouhila: {}
+date: 02-01-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+SciViews::R
+options(data.io_lang = "fr")
+```
+
+**Pacentrodus Lividus** is a **sea urchin** of the **Parechinidae** family, is also known as **the purple sea urchin**. This species is mainly found in the Mediterranean but we can also find them in the Eastern Atlantic  Ocean from Western Scotland and Irland to the Azores, canary Islands and Morocco.
+The sea urchin is rarely found on the sand,we found it especially in the depth of the sea,
+it often lives hidden during the day.Purple sea urchin is gonochoric species, and its reproduction occurs at the end of spring. 
+
+```{r importation}
+urchin <- read("urchin_bio", package = "data.io")
+```
+
+```{r graphe 1} 
+chart(urchin_bio,formula = height ~ weight%col=% origin) +
+geom_point()
+``` 
+
+The graph is a point cloud diagram, it represents the size of the sea urchin according to their weight and their origin.We noticed that the weight of the urchin is proportional to their height, but the urchin sea that come from fishery have a larger size compared to sea urchin that providing from a farm.we observed that for 60g of total weight ;the fishery urchin have a size of 30cm and the farm urchin have a size of 25cm.
+

@@ -1,0 +1,68 @@
+---
+title: Article 2 "New tests identify early changes in Alzhemier's disease before symptoms appear" 
+description: | 
+ New treatment of Alzheimer's disease 
+author:
+  - name: Souhila Berrehrah
+    url: 
+       https://github.com/Berrehrahsouhila: {}
+date: 01-31-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+**I-SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:**
+
+**Source of the article:**
+<https://www.sciencedaily.com/releases/2020/12/201201203937.htm> (December 1,2020)
+
+**Source of the study:**(Thomas K.Karikari et al.,2020)
+
+**Word count:** 493
+
+
+**II- VOCABULARY**
+
+
+| word from the text   |  Synonym / Definition in English                                                                                                                                                                       | French translation                                                                                                                                                           |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Alzheimer's disease  | A disease usually beginning in late middle age, characterized by progressive memory loss and mental deterioration                                                                                      | la maladie d'alzheimer                                                                                                                                                       |
+| Symptoms             | Sign of disease                                                                                                                                                                                        | les symptomes                                                                                                                                                                |
+| Cognitive            | Of or pertaining to the mental processes of perception, memory, judgment, and reasoning, as contrasted with emotional and volitional processes                                                         | cognitif                                                                                                                                                                     |
+| Dementia             | Severely impaired memory and reasoning ability,associated with damaged brain tissues                                                                                                                   | Démence                                                                                                                                                                      |
+| To rise              | To move from a lower to a higher position                                                                                                                                                              | Augmenter                                                                                                                                                                    |
+| Breakthrough         | An important ans sudden advance,etc , as in science, that removes a barrier to progress                                                                                                                | Découverte capitale                                                                                                                                                          |
+| Therapies            | The treatment of physical, mental, or social disorders or disease                                                                                                                                      | Thérapies                                                                                                                                                                    |
+| Devastating          | Destroying terribly                                                                                                                                                                                    | Dévastateur                                                                                                                                                                  |
+| Brain                | The mass of nerve tissue in head of humans animals that is the center of the nervous system                                                                                                            | Cerveau                                                                                                                                                                      |
+| Protein              | A molecule that is large portion of the mass of every life form, composed of amino acids linked in long chains                                                                                         | Protéine                                                                                                                                                                     |
+| Protein Tau          | Any of several proteins that act to stabilize neuronal microtubules in the axons of the brain neurons and that form abnormal tangles in the brains of people with certain neurodegenerative disorders  | Protéine intracellulaire participant à l'assemblage et à la stabilisation des microtubules                                                                                   |
+| Beta amyloid         | Major neurotoxic component of extracellular deposits found in patients with Alzheimer disease                                                                                                          | La béta amyloide est une protéine transmembranaire issue du clivage enzymatique de la protéine précurseur de l'amyloide (APP) il est néfaste pour le système nerveux central |
+| Aggregates           | Formed by joining or collecting into a whole mass or sum, combined                                                                                                                                     | Agrégat                                                                                                                                                                      |
+| Accumulate           | To gather or become gathered in an increasing quantity; amass                                                                                                                                          | Accumuler                                                                                                                                                                    |
+| Phosphrylation       | To introduce the phosphoryl group into (an organic compound)                                                                                                                                           | la phosphorylation                                                                                                                                                           |
+| Diagnoses            | To determine the identity of ( a disease,etc) by an examination                                                                                                                                        | Faire des diagnostic                                                                                                                                                         |
+| Cerebrospinal        | Relating to the brain and spine                                                                                                                                                                        | Céphalo rachidien                                                                                                                                                            |
+| Memory               | The mental ability of keeping and recalling facts, events, or experiences                                                                                                                              | mémoire                                                                                                                                                                      |
+| stages               | A step or degree in process, development, or series                                                                                                                                                    | Stade                                                                                                                                                                        |
+| Discovered           | To gain knowledge of (something unknown)                                                                                                                                                               | Découvrir                                                                                                                                                                    |
+| Samples              | A small part from a large whole, showing the quality ,style or nature of the whole                                                                                                                     | Échantillon                                                                                                                                                                  |
+|                      |                                                                                                                                                                                                        |                                                                                                                                                                              |
+
+
+**III- ANALYSIS TABLE ABOUT THE STUDY**:
+
+
+| Reaserchers                                        | University of Gothenburg, Lead author :Thomas K. Karikari                                                                   |
+| -------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| Published in ?  When (if mentioned)                | Science Daily ( December  1, 2020)                                                                                          |
+| General topic                                      | Discovery of new form of tau protein that can detect Alzheimer disease at early age                                         |
+| Procedure /  What was examined                     | A study was realised on  people who have cerebral signs of Alzheimer's disease but they did not develop cognitive problems  |
+| Conclusion /  Discovery                            | The new form of tau protein could help people to dignose the Alzheimer's  disease in early age                              |
+| Rmaining questions                                 |  /                                                                                                                          |
+|                                                    |                                                                                                                             |
