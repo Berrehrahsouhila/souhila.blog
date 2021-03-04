@@ -5,12 +5,12 @@ description: |
 author:
   - name: Souhila Berrehrah
     url:
-       https://github.com/Berrehrahsouhila: {}
+       https://berrehrahsouhila.github.io/souhila.blog/: {}
 date: 02-07-2021
 output:
   distill::distill_article:
     self_contained: false
-
+---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
