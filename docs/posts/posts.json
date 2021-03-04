@@ -1,20 +1,20 @@
 [
   {
-    "path": "posts/2021-02-07-mon-article/",
-    "title": "Article 4 \"New method shows great potential for the treatment of Alzheimer's disease\"",
-    "description": "the discovery of a new method to reduce the progression of Alzheimer's disease.",
+    "path": "posts/2021-02-05-mon-article/",
+    "title": "Article 3 \"Diabetes increases neurotic damage around amyloid plaques in Alzheimer's disease\"",
+    "description": "Diabetes type 2 destroys microglial cells and  accelerate the evolution of Alzheimer's disease.",
     "author": [
       {
         "name": "Souhila Berrehrah",
         "url": {
-          "https://github.com/Berrehrahsouhila": {}
+          "https://berrehrahsouhila.github.io/souhila.blog/": {}
         }
       }
     ],
-    "date": "2021-02-07",
+    "date": "2021-02-05",
     "categories": [],
     "preview": {},
-    "last_modified": "2021-03-02T11:08:10+01:00"
+    "last_modified": "2021-03-04T21:32:55+01:00"
   },
   {
     "path": "posts/2021-02-01-graphicdescription/",
@@ -49,6 +49,21 @@
     "categories": [],
     "preview": {},
     "last_modified": "2021-02-04T22:08:09+01:00"
+  },
+  {
+    "path": "posts/about/",
+    "title": "About Me",
+    "description": {},
+    "author": [
+      {
+        "name": "Souhila Berrehrah",
+        "url": {}
+      }
+    ],
+    "date": "2020-12-30",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2021-03-04T21:29:07+01:00"
   },
   {
     "path": "posts/2019-10-24-bacteria-antobiotics/",
