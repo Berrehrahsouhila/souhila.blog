@@ -1,0 +1,69 @@
+---
+title: Article 5"Link between Alzheimer's disease and gut microbiota is confirmed"
+description: |
+  The gut microbiota influences the development of Alzheimer's disease .
+author:
+  - name: Souhila Berrehrah
+    url:
+      https://berrehrahsouhila.github.io/souhila.blog/: {}
+date: 03-14-2021
+output:
+  distill::distill_article:
+    self_contained: false
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+---
+**I-SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT :**
+
+**Source of the article :**
+<https://www.sciencedaily.com/releases/2020/11/201113124042.htm> (November 13, 2020)
+
+**Source of the study :** (Moira Marizzoni et al., 2020)
+
+**Word count :** 531
+
+**II- VOCABULARY :**
+
+| Word from the text  |  Synonym/definition in English                                                                                                                                                      | French translation                                                                                                                                                   |
+| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Neurologist         | A physician who specializes in the diagnosis and treatment of diseases of the nerves and nervous system                                                                             | Neurologue                                                                                                                                                           |
+| Gut microbiota      | Microorganisms that normally inhabit the lumen of the intestinal tract                                                                                                              | Microbiote intestinal humain                                                                                                                                         |
+| Altered             | To change                                                                                                                                                                           | Changer,modifier                                                                                                                                                     |
+| Suffer              | To feel pain                                                                                                                                                                        | Souffrir                                                                                                                                                             |
+| Bacteria            | A group of microscopic, one-celled organisms, some of which are involved in infectious diseases, fermentation, and decay                                                            | Bactérie                                                                                                                                                             |
+| Intestine           | The portion of the digestive tract extending from the stomach to the anus and, in humans and other mammals, consisting of two segments, the small intestine and the large intestine | Intestin                                                                                                                                                             |
+| Influence           | To cause an effect on                                                                                                                                                               | Influencer                                                                                                                                                           |
+| lipopolysaccharide  | Any of a group of polysaccharides in which a lipid constitutes a portion of the molecule, found in the outer cell wall of gram-negative bacteria                                    | les lipopoplysaccharide (LPS) sont des complexes toxiques présents, de manière constitutive, dans la membrane externe de  certaines bactéries de notre tube digestif |
+| Vessel              | A tube or duct, as an artery or vein, containing or carrying blood                                                                                                                  | Vaisseau                                                                                                                                                             |
+| Metabolite          | A substance produced during or taking part in metabolism                                                                                                                            | Un métabolite est un composé organique intermédiaire ou issu du métabolisme                                                                                          |
+| anti-inflammatory   | Acting to reduce certain signs of inflammation, as swelling, tenderness, fever, and pain                                                                                            | Anti-inflammatoire                                                                                                                                                   |
+| Inflammation        | redness, swelling, and fever in a local area of the body, often with pain and disturbed function, in reaction to an infection or to a physical or chemical injury                   | Inflammatoire                                                                                                                                                        |
+| Fatty acids         | Chains of carbon and hydrogen atoms forming molecules that   are the basic building blocks of fats                                                                                  | Acides gras                                                                                                                                                          |
+| Involved            | Taking part in something; being part of something or connected with something                                                                                                       | Impliquer                                                                                                                                                            |
+| Innovative          | To introduce something new                                                                                                                                                          | Innovant                                                                                                                                                             |
+| Pre-biotics         | Natural substances in some foods that encourage the growth   of healthy bacteria in the gut                                                                                         | Prébiotiques                                                                                                                                                         |
+| To feed             | To give food to                                                                                                                                                                     | Nourrir, faire manger                                                                                                                                                |
+| Rejoice             | To feel joyful about (something)                                                                                                                                                    | Se réjouir                                                                                                                                                           |
+| Strains             | A group of bacteria or viruses that are genetically distinct from other groups of the same species                                                                                  | Des souches                                                                                                                                                          |
+| To prevention       | The act of stopping something bad from happening                                                                                                                                    | Prévention                                                                                                                                                           |
+| The main            | Most important                                                                                                                                                                      | Le plus important                                                                                                                                                    |
+|                     |                                                                                                                                                                                     |                                                                                                                                                                      |
+
+
+**III- ANALYSIS TABLE ABOUT THE STUDY :**
+
+| Researchers ?                             | Université de Genève,  Lead author : Moira Marizzoni                                                                                                                                                                        |
+| ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  Published     in ? when (if mentioned) ? | Science Daily, 13 novembre 2020                                                                                                                                                                                             |
+| General topic                             | The gut microbiota influences the development of amyloid plaques in the brain                                                                                                                                               |
+| Procedure/ what was examined              | To prove the relation between gut microbiota and Alzheimer’s disease the researchers measured the deposition of amyloid and the presence of inflammation markers in blood of 89 person who have between 65 and 85 years old |
+|                                           |  – The researchers divided the 89 person on 3 groups  :                                                                                                                                                                     |
+|                                           |  – The first group have Alzheimer’s disease                                                                                                                                                                                 |
+|                                           |  – The second group have a neurodegenerative problem ( memory problem)                                                                                                                                                      |
+|                                           |  – The third group they are in good health                                                                                                                                                                                  |
+| Conclusions/ discovery                    | The researchers cofirmed that some protein of gut microbiota influence the development of Alzheimer’s disease                                                                                                               |
+| Remaining questions                       | /                                                                                                                                                                                                                           |
+|                                           |                                                                                                                                                                                                                             |
