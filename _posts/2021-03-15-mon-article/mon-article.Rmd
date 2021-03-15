@@ -1,0 +1,64 @@
+---
+title: Article 6"Protein linked to Alzheimer's, strokes cleared from brain blood vessels"
+description: |
+  New treatment of Alzheimer's disease without side effects.
+author:
+  - name: Souhila Berrehrah
+    url:
+      https://berrehrahsouhila.github.io/souhila.blog/: {}
+date: 03-15-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+**I-SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT :**
+
+**Source of the article :**
+<https://www.sciencedaily.com/releases/2021/02/210217151118.htm> (February 17, 2021)
+
+**Source of the study :** ( Monica Xiong et al., 2021)
+
+**Word count :** 421
+
+**II- VOCABULARY :**
+
+| Word from the text                | Synonym/definition in English                                                                                                                                                                 | French translation             |
+| --------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ |
+| Cerebral amyloid angiopathy (CAA) | Is a form of angiopathy in which amyloid beta peptide   deposits in the walls of small to medium blood vessels of the central nervous   system and meninges                                   | Angiopathie amyloïde cérébrale |
+| worrisome                         | Causing worry or anxiety                                                                                                                                                                      | Inquiétant, préoccupant        |
+| swelling                          | An abnormal enlargement of a bodily structure or part, esp as the result of injury                                                                                                            | Gonflement                     |
+| Bleeds                            | To emit or lose blood                                                                                                                                                                         | Saignement                     |
+| Removes                           | To eliminate                                                                                                                                                                                  | Eliminer                       |
+| Blood  vessels                    | An elastic tubular channel, such as an artery, a vein, or a capillary, through which the blood circulates.                                                                                    | vaisseaux sanguins             |
+| Apolipoprotein                    | Any of a group of glycoproteins that form part of the structure of lipoproteins, some of which have been associated with Alzheimer's disease                                                  | Apolipoprotein                 |
+| Approach                          | Ideas or actions intended to deal with a problem or   situation                                                                                                                               | Une approche                   |
+| Harmful                           | Causing or capable of causing harm; injurious                                                                                                                                                 | Nocif,nocive                   |
+| Decades                           | A period of ten years                                                                                                                                                                         | Décennie                       |
+| Avoiding                          | Elude; keep away from                                                                                                                                                                         | Eviter                         |
+| Brain scans                       | A scintigram of the brain, used to identify cerebral blood flow and to detect intracranial masses, lesions, tumors, or infarcts.                                                              | Scintigraphie du cerveau       |
+| Confusion                         | The act of confusing or the state of being confused                                                                                                                                           | Confusion                      |
+| Seizures                          | A sudden attack, as of some disease                                                                                                                                                           | Convulsion                     |
+| Elicit                            | To provoke                                                                                                                                                                                    | Provoquer                      |
+| Triggers                          | Anything that causes a reaction                                                                                                                                                               | Déclencher                     |
+| Constrict                         | Be tight, narrower                                                                                                                                                                            | Resserrer                      |
+| Stroke                            | A sudden loss of brain function caused by a blockage or rupture of a blood vessel to the brain, characterized by loss of muscular control, diminution or loss of sensation or consciousness … | Accident vasculaire cérébral   |
+|                                   |                                                                                                                                                                                               |                                |
+
+**III- ANALYSIS TABLE ABOUT THE STUDY :**
+
+| Researchers ?                             | Washington University School of Medicine,  Lead author : Monica Xiong                                               |
+| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+|  Published     in ? when (if mentioned) ? | Science Daily, February 17, 2021                                                                                    |
+| General topic                             | Discovery of a new antibody that targets amyloid plaques without increasing the risk of cerebral amyloid Angiopathy |
+| Procedure/ what was examined              |  – Use of transgenic mice                                                                                           |
+|                                           |  – After six months the mice developed amyloid plaques in brain blood  vessels                                      |
+|                                           |  – After eight weeks of treatment with antibody HAE-4 the amyloid plaques in brain  blood vessels are decreased     |
+|                                           |   – Use of the treatment anti-APOE increases amyloid plaques in the brain blood vessels                             |
+| Conclusions/ discovery                    | The HAE-4 the new antibody which reduces amyloid plaques in brain blood vessels  without side effects               |
+| Remaining questions                       | /                                                                                                                   |
+|                                           |                                                                                                                     |
