@@ -17,6 +17,23 @@
     "last_modified": "2021-03-15T13:30:47+01:00"
   },
   {
+    "path": "posts/2021-03-16-mon-article/",
+    "title": "Article 7 \"New anti-AB vaccine could help halt Alzheimer's progression, preclinical study finds\"",
+    "description": "A new vaccine for Alzheimer’s disease .",
+    "author": [
+      {
+        "name": "Souhila Berrehrah",
+        "url": {
+          "https://berrehrahsouhila.github.io/souhila.blog/": {}
+        }
+      }
+    ],
+    "date": "2021-03-16",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2021-03-16T17:07:17+01:00"
+  },
+  {
     "path": "posts/2021-03-14-mon-article/",
     "title": "Article 5\"Link between Alzheimer's disease and gut microbiota is confirmed\"",
     "description": "The gut microbiota influences the development of Alzheimer's disease .",
