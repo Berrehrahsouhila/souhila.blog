@@ -1,7 +1,7 @@
 ---
 title: Article 7 "New anti-AB vaccine could help halt Alzheimer's progression, preclinical study finds"
 description: |
-  A new vaccine for Alzheimer’s disease .
+   A new vaccine for Alzheimer’s disease .
 author:
   - name: Souhila Berrehrah
     url:
