@@ -1,13 +1,13 @@
 ---
-title: "Biggest rodent"
+title: Article "Fighting dementia with play"
 description: |
-  Analysis of "Biggest rodent 'fought with teeth' like tusks"
+  Brain training delays the symptoms of Alzheimer's disease
 author:
-  - name: Student Unknown
+  - name: Berrehrah Souhila
   - name: Van Lancker Ingrid
   - name: Engels Guyliann
     url: https://guyliann.netlify.com/fr
-date: "`r Sys.Date()`"
+date: "29-30-2020"
 bibliography: biblio/rodent.bib
 categories:
   - "English for Science"
@@ -17,46 +17,48 @@ output:
   distill::distill_article:
     self_contained: false
 draft: false
----
-
-# Source of the article with publication and word count
-
-This post is an analysis of [Biggest rodent 'fought with teeth' like tusks](https://www.bbc.com/news/science-environment-31111843) [@2015rodent]
-
-My analysis has **394** words.
-
-# Vocabulary
-
-| Word from the text | Synonym/definition in English | French translation |
-|--------------------|----------------------------------------------------------------------------------------------------|--------------------|
-| rodent | any small animal that belongs to a group of animals with strong sharp front teeth – eg. mice, rats | rongeur |
-| ... | ... | ... |
-
-# Analysis of the study
-
-- Researchers? 
-    + University of York, UK (lead author: Dr Philip Cox)
-    + University of Montevideo, Uruguay
-
-- Published in? when (if mentioned)?
-    + Journal of Anatomy (04/02/2015) 
-
-- General topic
-    + Use of front teeth by biggest rodent (South American cousin to guinea pig) 
-- Procedure/what was examined
-    + CT scan of skull (Reconstruction of computer model)
-    + Testing the model with finite element analysis (= engineering technology which calculates stresses/strains in complex objects)
-    
-- Conclusions/ discovery
-    + Very strong teeth used for:
-         + eating & biting
-         + tasks requiring strength (eg. digging, defence)
-         + => Used front teeth like tusks  (elephant)
-
-- Remaining questions ? 
 
 
+# I-SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT 
 
+## Source of the article : <https://www.sciencedaily.com/releases/2021/04/210409093607.htm> (April 9, 2021).
 
+Source of the study : (Nathalie Swinnen et al., 2021)
 
+Word count : **390 ** 
 
+# II- VOCABULARY :
+
+|             Word from the text  |          Synonym/definition in English                                                                                                                                                                                                      |                         French translation                                                                                                                                                 |
+| ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| To decline                      | To decrease                                                                                                                                                                                                                                 | Diminuer                                                                                                                                                                                   |
+| To handle                       | To treat                                                                                                                                                                                                                                    | Traiter                                                                                                                                                                                    |
+| Attempts                        | To make an effort at,try                                                                                                                                                                                                                    | Essayer                                                                                                                                                                                    |
+| Failed                          | To be unsuccessful                                                                                                                                                                                                                          | Raté                                                                                                                                                                                       |
+| Remain                          | To continue in the same state                                                                                                                                                                                                               | Rester                                                                                                                                                                                     |
+| Incurable                       | Not curable; unresponsive to treatment                                                                                                                                                                                                      | Incurable                                                                                                                                                                                  |
+| Impairment                      | To cause to weaken, be damaged                                                                                                                                                                                                              | Déficience                                                                                                                                                                                 |
+| Cognitive training              | The term cognitive training (also called brain training) reflects a hypothesis that cognitive abilities can be maintained or improved by exercising the brain, in an analogy to the way physical fitness is improved by exercising the body | Entraînement cognitif                                                                                                                                                                      |
+| Severe                          | Harsh                                                                                                                                                                                                                                       | Sévère                                                                                                                                                                                     |
+| Enhanced                        | To improve or augment, especially in effectiveness, value, or attractiveness                                                                                                                                                                | Améliorer                                                                                                                                                                                  |
+| Delay                           | A period of time when somebody/something has to wait because of a problem that makes something slow or late                                                                                                                                 | Retarder                                                                                                                                                                                   |
+| Deteriorated                    | To become worse or inferior in character                                                                                                                                                                                                    | Se détériorer                                                                                                                                                                              |
+| Impulses                        | The influence of a particular feeling, mental state, etc                                                                                                                                                                                    | Impulsion                                                                                                                                                                                  |
+| Precursor                       | A biochemical substance, such as an intermediate compound in a chain of enzymatic reactions, from which a more stable or definitive product is formed                                                                                       | Précurseur                                                                                                                                                                                 |
+| MRI                             | An abbreviation of: magnetic resonance imaging, a technique that produces images of tissues and organs of the body by means of a strong magnetic field and low-energy radio waves                                                           | IRM : Technique d'imagerie radiologique utilisant les propriétés de résonance magnétique nucléaire (R.M.N.) des composants du corps humain (les protons, et en particulier ceux de l'eau). |
+|                                 |                                                                                                                                                                                                                                             |                                                                                                                                                                                            |
+
+# III- ANALYSIS TABLE ABOUT THE STUDY :
+
+|  Researchers?                       | University of ETH Zurich, lead author : Nathalie Swinnen                                                                |
+| ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+|  Published in? when (if mentioned)? | ScienceDaily, 9 avril 2021                                                                                             |
+| General topic                       | Brain training prevents Alzheimer's disease                                                                            |
+| Procedure/ what was examined        | A study is done on 45 patients who are 85 years old who live in the retirement house and present symptoms of Alzhiemer |
+|                                     | the patients are divided into two groups:                                                                              |
+|                                     | First group: they do physical exercises 15 minutes / day, 3 times a week for 8 weeks                                   |
+|                                     | Second group: they watch video clips                                                                                   |
+| Conclusions/ discovery              | physical exercises have improved cognitive skills of patients                                                          |
+|                                     | physical exercises can help people to delay the onset and development of Alzhiemer's disease                           |
+| Remaining questions                 | /                                                                                                                      |
+|                                     |                                                                                                                        |
