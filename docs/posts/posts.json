@@ -1,22 +1,5 @@
 [
   {
-    "path": "posts/2021-05-02-mon-article/",
-    "title": "introduction",
-    "description": "The introduction of the portfolio.",
-    "author": [
-      {
-        "name": "Souhila Berrehrah",
-        "url": {
-          "https://berrehrahsouhila.github.io/souhila.blog/": {}
-        }
-      }
-    ],
-    "date": "2021-05-02",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2021-05-02T22:49:14+02:00"
-  },
-  {
     "path": "posts/2021-03-16-mon-article/",
     "title": "Article 7 \"New anti-AB vaccine could help halt Alzheimer's progression, preclinical study finds\"",
     "description": "A new vaccine for Alzheimer’s disease .",

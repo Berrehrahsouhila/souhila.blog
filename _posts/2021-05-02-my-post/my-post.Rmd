@@ -1,0 +1,23 @@
+---
+title: "Conclusion"
+description: |
+  The conclusion of the portfolio.
+author:
+  - name: Souhila Berrehrah
+    url:
+      https://berrehrahsouhila.github.io/souhila.blog/: {}
+date: 05-03-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+**Word count :** 100
+
+
+Making this portfolio was a big deal for me and it was such a different and interesting experience and it's something completely new for me it's true it was difficult for me especially with the use of R language to write and publish the articles, and in addition there were too many steps to follow to realize and analyze it , and it taught me a lot of time but i learned so many things such as how to write a scientific article and new information about Alzheimer's disease and also through these articles I have enriched my English vocabulary
+
