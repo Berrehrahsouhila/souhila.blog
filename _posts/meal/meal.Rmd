@@ -7,10 +7,10 @@ categories:
   - "English for Science"
   - "M.E.A.L."
 output: distill::distill_article
+---
 
 
-
-•	November. 30 th: I decided to watch the movies and cartoons in English with the English translation, at the beginning it was difficult because i don't understand but I got used to it afterwards
+•	November. 30th: I decided to watch the movies and cartoons in English with the English translation, at the beginning it was difficult because i don't understand but I got used to it afterwards
 
 •	January .30th: I discovered the youtube channel TED TALKS to learn English, it really motivated me to make more effort to improve my English skills so i subscribed to several channel which gives English lessons on youtube and I really find that these courses are very interesting
 
