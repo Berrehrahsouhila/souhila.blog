@@ -1,31 +1,30 @@
 ---
 title: "My English Activity Log : MEAL"
 author:
-  - name: "___" 
-date: "`r Sys.Date()`"
+  - name: "Berrehrah souhila" 
+date: "02-05-2021"
 categories:
   - "English for Science"
   - "M.E.A.L."
 output: distill::distill_article
----
 
 
-Here are a few examples (some of them are based on examples I've read on blogs so far):
 
-- Sept. 25th: I downloaded the 'BBC News' App on my phone. I've started reading/watching the news on the train for 15 min.
+•	November. 30 th: I decided to watch the movies and cartoons in English with the English translation, at the beginning it was difficult because i don't understand but I got used to it afterwards
 
-- Oct. 5th: I watched 2 episodes of The Big Bang Theory (English with English subtitles). Pretty funny episodes.
-
-- Oct. 7th: I read 2 chapters of The Immortal Life of Henrietta Lacks. I found the book very interesting so far! It's quite sad but it's important to understand that we don't just work with cells. There are people and stories behind these cells.
-
-- Oct. 10th: I went to an English evening. It was nice. Even though I was a bit scared at first, it was easy to speak with people, as everyone has a different English level and I realised my English level is not that bad. I met nice people, an American guy from SHAPE and a Korean girl who's in Mons for a year.
-
-- Oct. 22nd: I watched a documentary about abortion. Very serious topic and not fun at all but I learned a lot of interesting facts about abortion around the world.
-
-- Oct. 27th: I started using Lyricstraining. This is soooo much fun. I love doing karaoke with my sister and we play together to guess the missing words. I love it!
-
-- Oct. 30th: I decided to change my device language into English. Now my smartphone, PS4 and Ipad are all configured in English.
-
-The bottom line is: have fun! It's a very important component when learning a new language.
+•	January .30th: I discovered the youtube channel TED TALKS to learn English, it really motivated me to make more effort to improve my English skills so i subscribed to several channel which gives English lessons on youtube and I really find that these courses are very interesting
 
 
+•	February. 17th: I downloaded the DUOLING application, on my phone which gives free lessons(oral and written), i really liked it because it is not boring at all it lets people learn the language while having fun and i downloaded AUDIO BOOKS application and i started  to listen to audio books to improve my pronunciation  and my listening skills
+
+•	February .28th: I made some foreign friends who speak fluent English on the social network and i tried to speak English as much as possible
+
+
+•	March. 17 th: I went to the library to buy books, and i bought my favorite book i have already read it but in French, this time i decided to read it in English it is the little prince who is a magnificent book.
+
+•	April. 6th: I read different articles in English from different studies in completely different fields of biology (chemistry, physics) and learned a lot from these articles
+
+
+•	April. 28th: here iam arriving at the last step of my blog and i wrote the conclusion, i learned a lot of things during the realization of my work, at the beginning it was hard for me especially the use of R language so that i can write and publish my articles but i hope that i managed to do at least the minimum.
+
+  
