@@ -85,24 +85,6 @@
     "last_modified": "2021-03-17T20:32:57+01:00"
   },
   {
-    "path": "posts/meal/",
-    "title": "My English Activity Log : MEAL",
-    "description": {},
-    "author": [
-      {
-        "name": "Berrehrah souhila",
-        "url": {}
-      }
-    ],
-    "date": "2021-02-05",
-    "categories": [
-      "English for Science",
-      "M.E.A.L."
-    ],
-    "preview": {},
-    "last_modified": "2021-05-02T14:00:32+02:00"
-  },
-  {
     "path": "posts/2021-02-01-graphicdescription/",
     "title": "graphic_description",
     "description": "Urchins biometry.",
@@ -179,32 +161,5 @@
     "last_modified": "2020-12-24T23:08:51+01:00",
     "preview_width": 3333,
     "preview_height": 2667
-  },
-  {
-    "path": "posts/2019-10-25-biggest-rodent/",
-    "title": "Biggest rodent",
-    "description": "Analysis of \"Biggest rodent 'fought with teeth' like tusks\"",
-    "author": [
-      {
-        "name": "Student Unknown",
-        "url": {}
-      },
-      {
-        "name": "Van Lancker Ingrid",
-        "url": {}
-      },
-      {
-        "name": "Engels Guyliann",
-        "url": "https://guyliann.netlify.com/fr"
-      }
-    ],
-    "date": "2020-10-01",
-    "categories": [
-      "English for Science",
-      "Paleontology",
-      "Rodent"
-    ],
-    "preview": {},
-    "last_modified": "2020-12-24T23:08:51+01:00"
   }
 ]

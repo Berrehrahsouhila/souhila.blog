@@ -1,7 +1,7 @@
 ---
 title: Article "Fighting dementia with play"
 description: |
-  Brain training delays the symptoms of Alzheimer's disease
+  Brain training delays the symptoms of Alzheimer's disease.
 author:
   - name: Berrehrah Souhila
   - name: Van Lancker Ingrid
