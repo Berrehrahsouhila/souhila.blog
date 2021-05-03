@@ -1,0 +1,28 @@
+---
+title: "Introduction" 
+description: |
+  Introduction of the portfolio.
+author:
+  - name: Souhila Berrehrah
+    url:
+      https://berrehrahsouhila.github.io/souhila.blog/: {}
+date: 05-03-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+**Word count :**200
+
+
+I chose this subject (Alzheimer's disease) because, due to this disease i lost many of my relatives (grandfather, grandmother, uncle ...) the affected person is not only him who suffers but her family also suffer more because they can not do anything for him, for that i always considered to know more about this mysterious disease which kill people slowly .
+Alzhiemer is a neurodejenirative disease characterized by a progressive loss of memory and certain cognitive functions (loss of memory, reasoning, language….), it is the result of the deterioration of neurons in the brain which is due to various factors: environmental factors (pollution, alcohol,tobacco) and sleep disorder and hereditary factors...etc.
+
+The 7 articles that i analyzed i approached the recent research of different teams of researchers who tested new therapeutic approaches to better diagnose alzheimer's disease but the precise causes of the disease are not identified, but the work research on the subject allow us to better understand the risk factors that contribute to the development of the disease and among these factors: some diseases such as diabetes and gut microbiota, also: The excessive production of beta-amyloids protein and the abnormal accumulation of the protein TAU in neurons
+
+
