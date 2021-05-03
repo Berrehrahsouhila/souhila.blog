@@ -1,7 +1,7 @@
 ---
-title: "introduction"
+title: Article "Fighting dementia with play "
 description: |
-  The introduction of the portfolio.
+  Brain training decrease the symptoms of Alzheimer's disease.
 author:
   - name: Souhila Berrehrah
     url:
@@ -16,11 +16,48 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-**Word count :**200
 
+**I-SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT :**
 
-I chose this subject (Alzheimer's disease) because, due to this disease i lost many of my relatives (grandfather, grandmother, uncle ...) the affected person is not only him who suffers but her family also suffer more because they can not do anything for him, for that i always considered to know more about this mysterious disease which kill people slowly .
-Alzhiemer is a neurodejenirative disease characterized by a progressive loss of memory and certain cognitive functions (loss of memory, reasoning, language….), it is the result of the deterioration of neurons in the brain which is due to various factors: environmental factors (pollution, alcohol,tobacco) and sleep disorder and hereditary factors...etc.
+**Source of the article :**
+<https://www.sciencedaily.com/releases/2021/04/210409093607.htm>  (April 9,2021)
 
-The 7 articles that i analyzed i approached the recent research of different teams of researchers who tested new therapeutic approaches to better diagnose alzheimer's disease but the precise causes of the disease are not identified, but the work research on the subject allow us to better understand the risk factors that contribute to the development of the disease and among these factors: some diseases such as diabetes and gut microbiota, also: The excessive production of beta-amyloids protein and the abnormal accumulation of the protein TAU in neurons
+**Source of the study :** (Nathalie Swinnen et al., 2021)
 
+**Word count :** 390
+
+**II- VOCABULARY :**
+
+|             Word from the text  |          Synonym/definition in English                                                                                                                                                                                                      |                         French translation                                                                                                                                                 |
+| ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| To decline                      | To decrease                                                                                                                                                                                                                                 | Diminuer                                                                                                                                                                                   |
+| To handle                       | To treat                                                                                                                                                                                                                                    | Traiter                                                                                                                                                                                    |
+| Attempts                        | To make an effort at,try                                                                                                                                                                                                                    | Essayer                                                                                                                                                                                    |
+| Failed                          | To be unsuccessful                                                                                                                                                                                                                          | Raté                                                                                                                                                                                       |
+| Remain                          | To continue in the same state                                                                                                                                                                                                               | Rester                                                                                                                                                                                     |
+| Incurable                       | Not curable; unresponsive to treatment                                                                                                                                                                                                      | Incurable                                                                                                                                                                                  |
+| Impairment                      | To cause to weaken, be damaged                                                                                                                                                                                                              | Déficience                                                                                                                                                                                 |
+| Cognitive training              | The term cognitive training (also called brain training) reflects a hypothesis that cognitive abilities can be maintained or improved by exercising the brain, in an analogy to the way physical fitness is improved by exercising the body | Entraînement cognitif                                                                                                                                                                      |
+| Severe                          | Harsh                                                                                                                                                                                                                                       | Sévère                                                                                                                                                                                     |
+| Enhanced                        | To improve or augment, especially in effectiveness, value, or attractiveness                                                                                                                                                                | Améliorer                                                                                                                                                                                  |
+| Delay                           | A period of time when somebody/something has to wait because of a problem that makes something slow or late                                                                                                                                 | Retarder                                                                                                                                                                                   |
+| Deteriorated                    | To become worse or inferior in character                                                                                                                                                                                                    | Se détériorer                                                                                                                                                                              |
+| Impulses                        | The influence of a particular feeling, mental state, etc                                                                                                                                                                                    | Impulsion                                                                                                                                                                                  |
+| Precursor                       | A biochemical substance, such as an intermediate compound in a chain of enzymatic reactions, from which a more stable or definitive product is formed                                                                                       | Précurseur                                                                                                                                                                                 |
+| MRI                             | An abbreviation of: magnetic resonance imaging, a technique that produces images of tissues and organs of the body by means of a strong magnetic field and low-energy radio waves                                                           | IRM : Technique d'imagerie radiologique utilisant les propriétés de résonance magnétique nucléaire (R.M.N.) des composants du corps humain (les protons, et en particulier ceux de l'eau). |
+|                                 |                                                                                                                                                                                                                                             |                                                                                                                                                                                            |
+
+**III- ANALYSIS TABLE ABOUT THE STUDY :**
+
+|  Researchers?                       | University of ETH Zurich , lead author : Nathalie Swinnen                                                              |
+| ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+|  Published in? when (if mentioned)? | ScienceDaily, 9 avril 2021                                                                                             |
+| General topic                       | Brain training prevents Alzheimer's disease                                                                            |
+| Procedure/ what was examined        | A study is done on 45 patients who are 85 years old who live in the retirement house and present symptoms of Alzhiemer |
+|                                     | the patients are divided into two groups:                                                                              |
+|                                     | First group: they do physical exercises 15 minutes / day, 3 times a week for 8 weeks                                   |
+|                                     | Second group: they watch video clips                                                                                   |
+| Conclusions/ discovery              | physical exercises have improved cognitive skills of patients                                                          |
+|                                     | physical exercises can help people to delay the onset and development of Alzhiemer's disease                           |
+| Remaining questions                 | /                                                                                                                      |
+|                                     |                                                                                                                        |
