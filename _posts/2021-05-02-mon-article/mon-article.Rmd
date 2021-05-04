@@ -1,5 +1,5 @@
 ---
-title: Article "Fighting dementia with play "
+title: Article 8 "Fighting dementia with play "
 description: |
   Brain training decrease the symptoms of Alzheimer's disease.
 author:
@@ -10,7 +10,7 @@ date: 05-02-2021
 output:
   distill::distill_article:
     self_contained: false
----
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
