@@ -17,23 +17,6 @@
     "last_modified": "2021-05-04T13:23:47+02:00"
   },
   {
-    "path": "posts/2021-05-03-mon article/",
-    "title": "Introduction",
-    "description": "Introduction of the portfolio",
-    "author": [
-      {
-        "name": "Souhila Berrehrah",
-        "url": {
-          "https://berrehrahsouhila.github.io/souhila.blog/": {}
-        }
-      }
-    ],
-    "date": "2021-05-03",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2021-05-04T13:29:48+02:00"
-  },
-  {
     "path": "posts/2021-05-03-mon-article/",
     "title": "Introduction",
     "description": "Introduction of the portfolio.",
@@ -49,6 +32,23 @@
     "categories": [],
     "preview": {},
     "last_modified": "2021-05-04T13:39:29+02:00"
+  },
+  {
+    "path": "posts/2021-05-04-mon-article/",
+    "title": "Bibliography",
+    "description": "Bibliography of the portfolio.",
+    "author": [
+      {
+        "name": "Souhila Berrehrah",
+        "url": {
+          "https://berrehrahsouhila.github.io/souhila.blog/": {}
+        }
+      }
+    ],
+    "date": "2021-05-04",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2021-06-09T14:01:06+02:00"
   },
   {
     "path": "posts/2021-05-02-mon-article/",
